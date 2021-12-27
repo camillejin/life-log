@@ -6,5 +6,5 @@ Data was collected from the IoT devices of the Seniors who live alone.
 ![image](structure.jpg)
 
 ## Sample Report
-![report](example_report_505.pdf)
+xfun::embed_file("example_report_505.pdf")
 
