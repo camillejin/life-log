@@ -1,3 +1,3 @@
-Data Analysis Project(CSI3103)
+## Life-log Report 
 
 Data was collected from the IoT devices of the Seniors who live alone.
